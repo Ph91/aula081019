@@ -1,4 +1,4 @@
 function cumprimentar(namePeople) {
-    return " Eae fulano tranquilo? ," + namePeople;
+    return " Eae Philipe tranquilo? ," + namePeople;
 }
 console.log(cumprimentar("Philipe"));
